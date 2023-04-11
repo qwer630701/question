@@ -1,0 +1,9 @@
+unpackage/*
+uni_modules/*
+./src/plugin/*
+./src/plugin/*/*
+./src/manifest.json
+./src/pages.json
+*.json
+*.ts
+dist
